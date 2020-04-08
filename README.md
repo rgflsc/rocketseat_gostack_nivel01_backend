@@ -3,3 +3,4 @@
 
 Pacotes instalados:
  - Express  [yarn add express -P]
+ - Nodemon  [yarn add nodemon -D]
